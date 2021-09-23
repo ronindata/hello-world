@@ -1,2 +1,4 @@
-git config --global user.email "ronidata@outlook.com"
-git config --global user.name "Ronin Data"
+git config --global user.email "user@domain.com"
+git config --global user.name "username"
+
+https://www.jcchouinard.com/create-your-first-github-project-in-vscode/
