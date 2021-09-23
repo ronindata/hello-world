@@ -1,4 +1,0 @@
-git config --global user.email "user@domain.com"
-git config --global user.name "username"
-
-https://www.jcchouinard.com/create-your-first-github-project-in-vscode/
