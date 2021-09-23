@@ -1,5 +1,7 @@
 #git-commands
 .get-commands.txt
+git-commands.ps1
+git-commands.md
 # VSCode
 .vscode/*
 !.vscode/settings.json
